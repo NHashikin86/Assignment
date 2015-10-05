@@ -1,0 +1,17 @@
+#Assignment1Python
+print ("Name : Nur Hashikin Abd Karim")
+print ("Matrix No : 2014224714")
+print ("Gender : Female")
+print ("Age : 29")
+print ("Email : ieykin.abdul@gmail.com")
+print ("Phone No : 0122208258")
+text_file=open("D:\\hashikin.txt","r")
+print (text_file.read())
+text_file.close()
+
+
+
+#OpenFile
+text_file=open("D:\\hashikin.txt","r")
+print (text_file.read())
+text_file.close()
